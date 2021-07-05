@@ -1,6 +1,5 @@
 import Link from 'next/link'
 import charactersStyles from '../styles/Characters.module.css'
-import CharacterDetails from '../components/CharacterDetails'
 
 const Character = ({character}) => {
     return (
